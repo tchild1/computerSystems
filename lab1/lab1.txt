@@ -1,0 +1,38 @@
+1. /users/guest/t/tchild01
+2. /users/guest/t/tchild01/cs224
+3. 0 (There are only files, not directories)
+4. 7 
+    - Bashful.txt
+    - Dopey.txt
+    - Happy.txt
+    - Sneezy.txt
+    - Doc.txt
+    - Grumpy.txt
+    - Sleepy.txt
+5. 5
+    - bears
+    - house
+        - beds
+	- bowls
+	- chairs
+6. 13
+    /bears/BabyBear.txt
+    /bears/MamaBear.txt
+    /bears/PapaBear.txt
+    /Goldilocks.txt
+    /house/beds/JustRight.txt
+    /house/beds/TooHard.txt
+    /house/beds/TooSoft.txt
+    /house/bowls/JustRight.txt
+    /house/bowls/TooCold.txt
+    /house/bowls/TooHot.txt
+    /house/chairs/JustRight.txt
+    /house/chairs/TooHard.txt
+    /house/chairs/TooSoft.txt
+7. cp Goldilocks.txt house/beds/
+8. rm house/chairs/JustRight.txt
+9. mv Theseus.txt Right/Right/Left
+10. /users/guest/t/tchild01/cs224/byu-cs-224-labs/1-Linux-Systems/Lab1/f3/Right/Right/Left
+11. 224
+
+
